@@ -28,6 +28,12 @@ This project is intended as an **educational prototype**. The malware detection 
 3. Run the JavaFX application.
 4. SQLite databases are created automatically on first run.
 
+## Execute
+
+Double-click the .bat file to open and run the application.
+
+Warning: You will be prompted to trust the file when you run it. If you do not trust my .bat file, run it from NetBeans.
+
 ## Screenshots
 (Add screenshots here)
 
