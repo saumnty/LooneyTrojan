@@ -1,0 +1,25 @@
+.boton-lateral {
+    -fx-background-color: transparent;
+    -fx-text-fill: #44ff66;
+    -fx-font-size: 14px;
+    -fx-content-display: top;
+    -fx-alignment: center;
+    -fx-padding: 10;
+    -fx-cursor: hand;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-effect: dropshadow(gaussian, #22ff44, 4, 0.4, 0, 0);
+    -fx-transition: all 0.3s ease-in-out;
+}
+
+.boton-lateral:hover {
+    -fx-background-color: #223322;
+    -fx-text-fill: #aaffaa;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.logo-troyan {
+    -fx-effect: dropshadow(gaussian, white, 8, 0.6, 0, 0);
+    -fx-opacity: 0.9;
+}
